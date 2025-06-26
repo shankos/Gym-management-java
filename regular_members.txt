@@ -1,0 +1,16 @@
+ID: 1
+Name: sashank
+Location: ktm
+Phone: 9876544322
+Email: qwerty
+Gender: Male
+DOB: 3/Feb/1993
+Start Date: 1/Jan/1990
+Plan: Basic
+Attendance: 1
+Active: true
+Full Payment: 6500.0
+Discount: 325.0
+Amount Paid: 6175.0
+Loyalty Points: 5.0
+---------------------------------------------------
